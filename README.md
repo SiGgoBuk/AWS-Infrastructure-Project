@@ -1,4 +1,4 @@
-# AWS Network Infrastructure Project
+# AWS Infrastructure Project
 
 > AWS VPC 기반 Public/Private 네트워크 분리 설계 및 Bastion Host를 통한 프라이빗 인스턴스 접근 구현
 
