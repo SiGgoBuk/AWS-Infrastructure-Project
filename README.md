@@ -33,7 +33,7 @@
 
 ## 아키텍처 구성도
 
-![(images/diagram.png)
+![Diagram](images/diagram.png)
 
 ### 트래픽 흐름
 - **외부 → Bastion Host**: 인터넷 → IGW → Public Subnet → mjc-public-inst (SSH)
